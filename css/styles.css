@@ -40,7 +40,7 @@ body{
 
 .rigth-form h2{
     font-size: 2em;
-    color: #f44336;
+    color: #3688f4;
     margin: 20px 0;
     font-weight: bold;
 }
@@ -65,7 +65,7 @@ body{
 
 .rigth-form input[type="submit"]{
     width: 100%;
-    background-color: #f44336;
+    background-color: #3688f4;
     color: #fff;
     border: none;
     font-size: 18px;
