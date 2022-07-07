@@ -1,7 +1,7 @@
-# Formulario login (guiño-guiño) hmtl con php db
- Formulario en html + csss + php conexion a db con xampp
+# Formulario login (guiño-guiño)
+ Formulario en html + css + php conexion a db con xampp
  
  - debes instalar xampp desde su web oficial (o cualquier otro)
- - la base de datos creada se llama login (tu puedes cambiar el nombre)
+ - debes crear una base de datos en mysql con el nombre "login" (tu puedes cambiar el nombre, pero debes tambien cambiarlo en el php)
  - el usurio usado es "root" y contraseña "" en blanco por defecto.
 
