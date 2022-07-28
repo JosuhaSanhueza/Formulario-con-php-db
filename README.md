@@ -5,3 +5,4 @@
  - debes crear una base de datos en mysql con el nombre "login" (tu puedes cambiar el nombre, pero debes tambien cambiarlo en el php)
  - el usurio usado es "root" y contraseña "" en blanco por defecto.
 
+https://github.com/JosuhaSanhueza/Formulario-con-php-db/blob/main/login.png
