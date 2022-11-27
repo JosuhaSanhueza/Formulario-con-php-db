@@ -1,4 +1,4 @@
-# Formulario login (guiño-guiño)
+# Formulario login
  Formulario en html + css + php conexion a db con xampp
  
  - debes instalar xampp desde su web oficial (o cualquier otro)
